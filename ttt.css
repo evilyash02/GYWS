@@ -1,0 +1,23 @@
+#main{
+            max-width:100%;
+            width:70%;
+            margin:auto;
+            font: 60px bold helvetica, arial, sans-serif;
+            color: darkgrey;
+            background-color: linen;
+            text-align: center;
+            border: 5px solid darkgrey;
+             border-radius:10px;
+             margin:auto;
+             border-collapse:collapse;
+        }
+        
+        TD{
+          
+            height:90px;
+            padding:9%;
+            border: 5px solid darkgrey;
+            border-collapse:collapse;
+            border-radius:3px;
+            
+        }
